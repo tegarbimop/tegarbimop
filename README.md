@@ -18,5 +18,5 @@
 
 <p align="left">
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_LU&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tegarbimop&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
