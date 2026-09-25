@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science student at UIN Syarif Hidayatullah Jakarta, recently completed my thesis on NLP and Sentiment Analysis.
-- 💻 Experienced in building Full-stack Web Applications using **React.js, Next.js, Svelte, and Laravel**.
+- 💻 Experienced in building Full-stack Web Applications using **React.js, Next.js, and Laravel**.
 - 📊 Passionate about Data Science, utilizing Python, Pandas, and Scikit-learn to solve real-world problems.
 - ☁️ Currently exploring Advanced Cloud Computing (GCP) and Agentic IDEs.
 - ⚡ Fun fact: When I'm not coding, I'm usually solving logic puzzles, playing retro PC games, or reading manhwa.
@@ -32,7 +32,7 @@
 | **HTML, CSS, JavaScript** | Core web technologies for building responsive and dynamic interfaces. |
 | **Python** | Data science and machine learning, focusing on NLP and sentiment analysis. |
 | **React.js, Next.js & Svelte** | Modern frontend frameworks for creating fast, interactive web applications. |
-| **PHP & Laravel** | Robust backend development and server-side logic. |
+| **PHP & Laravel** | Robust backend development and server side logic. |
 
 <br>
 
