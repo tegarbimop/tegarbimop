@@ -18,7 +18,7 @@
 
 <p align="left">
   <!-- Profile Views Counter -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tegarbimop.tegarbimop" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tegarbimop&label=Profile%20views&color=0e75b6&style=flat&v=1" alt="Profile Views" />
 </p>
 
 ### 🛠️ Languages & Frameworks
