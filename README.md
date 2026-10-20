@@ -18,7 +18,7 @@
 
 <p align="left">
   <!-- Profile Views Counter -->
-  <img src="https://profile-counter.glitch.me/tegarbimop/count.svg" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tegarbimop.tegarbimop" alt="Profile Views" />
 </p>
 
 ### 🛠️ Languages & Frameworks
