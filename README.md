@@ -16,7 +16,8 @@
 
 ---
 
-<p align="left">
+<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tegar-bimo-prakoso-putra-ngabei-bei-5b8603206/)
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=tegarbimop&label=Profile%20views&color=0e75b6&style=flat&v=1" alt="Profile Views" />
 </p>
